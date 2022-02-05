@@ -75,8 +75,45 @@ Dieser Kurs analysiert und diskutiert relevante Grammatikkonzepte integriert in 
 Benotung
 --------
 
-| Activities | Percentages |
-| --- | --- |
-| Anwesenheit und aktive Teilnahme | 40% |
-| Schriftliche Hausaufgaben und Präsentationen/Vorträge | 30% |
-| 2 Prüfungen | 30%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Anwesenheit und aktive Teilnahme
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Schriftliche Hausaufgaben und Präsentationen/Vorträge
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Prüfungen
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -135,7 +135,7 @@ Woche 5
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Über mein Studium sprechen (PDF)]({{< baseurl >}}/resources/21g_410s17_w05_m11)
+[Über mein Studium sprechen (PDF)]({{< baseurl >}}/resources/21g_410s17_w05_m11)
 
 [Webseite der TU Darmstadt](https://www.tu-darmstadt.de/universitaet/selbstverstaendnis/index.de.jsp)
 
@@ -157,11 +157,11 @@ Nominalisierungen Uebungsgramm: \[ÜB\] 60–77
 Woche 6
 {{< tdclose >}}
 {{< tdopen >}}
-Flyer: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Physikstudium in Köln (PDF)](http://physik.uni-koeln.de/fileadmin/Downloads/Flyer_2015_Bachelor_Physik_web.pdf)
+Flyer: [Physikstudium in Köln (PDF)](http://physik.uni-koeln.de/fileadmin/Downloads/Flyer_2015_Bachelor_Physik_web.pdf)
 
-Broschüre: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Physikstudium in Zürich (PDF)](http://intranet.mnf.uzh.ch/fileadmin/DATA_Autoren/Dokumente/Inhalte/I_Studium/I.1_zukuenftige_Studierende/I.1.2_Studienfaecher/physik_2012.pdf)
+Broschüre: [Physikstudium in Zürich (PDF)](http://intranet.mnf.uzh.ch/fileadmin/DATA_Autoren/Dokumente/Inhalte/I_Studium/I.1_zukuenftige_Studierende/I.1.2_Studienfaecher/physik_2012.pdf)
 
-Flyer: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mathematikstudium in Duisburg/Essen (PDF - 13.7MB)](https://www.uni-due.de/imperia/md/content/mathematik/mathflyer.pdf)
+Flyer: [Mathematikstudium in Duisburg/Essen (PDF - 13.7MB)](https://www.uni-due.de/imperia/md/content/mathematik/mathflyer.pdf)
 
 Broschüre: Mathematikstdium in Darmstadt
 
@@ -197,9 +197,9 @@ Text: Berufsbilder der Informatik
 
 [Text: Der Europäische Lebenslauf: Was ist das eigentlich? (PDF)]({{< baseurl >}}/resources/21g_410s17_w07_m21)
 
-Text: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Der Europäische Lebenslauf: Instruktionen (PDF)](http://www.europass.at/fileadmin/dateien_redaktion/lebenslauf/CVInstructionsdt.pdf)
+Text: [Der Europäische Lebenslauf: Instruktionen (PDF)](http://www.europass.at/fileadmin/dateien_redaktion/lebenslauf/CVInstructionsdt.pdf)
 
-Text: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Der Europäische Lebenslauf: Beispiel (PDF)](https://www.jugendinfo.be/downloads/job/beispielCV_DE.pdf)
+Text: [Der Europäische Lebenslauf: Beispiel (PDF)](https://www.jugendinfo.be/downloads/job/beispielCV_DE.pdf)
 
 Formular: [Der Europäische Lebenslauf (DOC)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjJ8cuFwOnXAhVr74MKHaC1A1QQFggwMAE&url=http%3A%2F%2Fwww.europass.at%2Ffileadmin%2Fdateien_redaktion%2Flebenslauf%2Flebenslauf_de.doc&usg=AOvVaw1jLLVg5eH1snoxzqXX3lWS)
 
@@ -253,7 +253,7 @@ Text: [Energiewende soll Mitte Juni per Gesetz geregelt sein](http://www.contrat
 
 Text: Norbert Röttgen. "[Der Masterplan für die deutsche Energiewende](http://www.faz.net/aktuell/wirtschaft/energiepolitik-der-masterplan-fuer-die-deutsche-energiewende-11558633.html)." Frankfurter Allgemeine Zeitung, 11 Dezember 2011.
 
-Link: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Beschlüsse des Bundeskabinetts zur Energiewende vom 6. Juni 2011. (PDF)](https://www.nachhaltigkeit.info/media/1326187886phpeJPyvC.pdf)
+Link: [Beschlüsse des Bundeskabinetts zur Energiewende vom 6. Juni 2011. (PDF)](https://www.nachhaltigkeit.info/media/1326187886phpeJPyvC.pdf)
 
 Link: [Die Energiwende im Überblick (Bundsministerium für Umwelt)](https://www.bundesregierung.de/Content/DE/StatischeSeiten/Breg/Energiekonzept/0-Buehne/ma%C3%9Fnahmen-im-ueberblick.html)
 
@@ -339,7 +339,7 @@ Woche 12
 Woche 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hinweise für Redner (PDF - 3.8MB)]({{< baseurl >}}/resources/21g_410s17_w13_m36)
+[Hinweise für Redner (PDF - 3.8MB)]({{< baseurl >}}/resources/21g_410s17_w13_m36)
 {{< tdclose >}}
 {{< tdopen >}}
 [Übungen zur Prüfungsvorbereitung (PDF 1.2MB)]({{< baseurl >}}/resources/21g_410s17_w13_m37) 

@@ -29,7 +29,7 @@ Curriculum Information
 
 ### Prerequisites
 
-_[21G.404 German IV](/courses/21g-404-german-iv-spring-2005/)_  
+_[21G.404 German IV](/courses/21g-404-german-iv-spring-2005)_  
 or permission of instructor
 
 ### Requirements Satisfied

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ac374bad-ba45-d566-dd86-900590768636
 resourcetype: Image
 title: books.jpg
 uid: 114f8693-9391-a87f-057e-025f353fa839
